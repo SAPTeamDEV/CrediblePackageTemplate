@@ -8,6 +8,7 @@
     <Description>A project template that meets the most conditions of a "Valid" nuget package.</Description>
     <PackageTags>template;nuget;package;valid-package;sourcelink;reproduciblebuilds</PackageTags>
     <PackageProjectUrl>https://github.com/SAPTeamDEV/CrediblePackageTemplate</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
 
     <PackageType>Template</PackageType>
     <TargetFramework>netstandard2.0</TargetFramework>
