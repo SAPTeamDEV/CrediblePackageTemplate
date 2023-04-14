@@ -8,6 +8,7 @@
     
     <Title>CrediblePackageProject</Title>
     <AssemblyTitle>Credible Package Project</AssemblyTitle>
+    <PackageVersion>1.0</PackageVersion>
     <Product>A Sample Credible Project.</Product>
     <Authors>Me</Authors>
     <Company>My Company</Company>
