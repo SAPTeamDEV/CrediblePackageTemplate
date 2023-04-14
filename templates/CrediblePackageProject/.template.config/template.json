@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Alireza Poodineh",
+  "classifications": ["Common", "NuGet", "Package"],
+  "name": "Credible NuGet Project",
+  "description": "A project that meets the most of conditions for a 'Valid' nuget package.",
+  "precedence": "0",
+  "identity": "SAPTeam.CrediblePackageTemplate.1.0",
+  "shortName": "credible-project",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CrediblePackageProject",
+  "primaryOutputs": [
+    {
+      "path": "CrediblePackageProject.csproj"        
+    }
+  ],
+  "postActions": [
+    {
+      "description": "Restore NuGet packages required by this project.",
+      "manualInstructions": [
+        { "text": "Run 'dotnet restore'" }
+      ],
+      "actionId": "210D431B-A78B-4D2F-B762-4ED3E3EA9025",
+      "continueOnError": true,
+      "args": {
+        "files": [ "CrediblePackageProject.csproj" ]
+      }
+    }
+  ]
+}
