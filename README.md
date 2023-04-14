@@ -1,4 +1,8 @@
 # Credible NuGet Package
+
+[![Nuget](https://img.shields.io/nuget/v/SAPTeam.CrediblePackageTemplate)](https://www.nuget.org/packages/SAPTeam.CrediblePackageTemplate)
+[![Nuget](https://img.shields.io/nuget/dt/SAPTeam.CrediblePackageTemplate)](https://www.nuget.org/packages/SAPTeam.CrediblePackageTemplate)
+
 With this template you can create valid and well nuget packages.
 
 This template has a project template that meets this conditions:
