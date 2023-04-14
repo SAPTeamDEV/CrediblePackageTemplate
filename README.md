@@ -12,4 +12,4 @@ This template has a project template that meets this conditions:
 * Uses the sematic versioning with GitVersioning
 * Includes all ReproducibleBuild and SourceLink properties
 
-All things that you need to make your package a true "Valid" nuget package is adding a readme and license as well as a strong naming key.
+All things that you need to make your package a true **Valid** nuget package is adding a readme as well as a strong naming key.
