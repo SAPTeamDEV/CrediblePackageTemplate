@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <PackageId>SAPTeam.CrediblePackageTemplate</PackageId>
-    <PackageVersion>1.1.1</PackageVersion>
+    <PackageVersion>1.1.2</PackageVersion>
     <Title>NuGet Credible Package Template</Title>
     <Authors>Alireza Poodineh</Authors>
     <Description>A project template that meets the most conditions of a "Valid" nuget package.</Description>
     <PackageTags>template;nuget;package;valid-package;sourcelink;reproduciblebuilds</PackageTags>
-    <PackageProjectUrl>https://github.com/SAPTeamDEV/CrediblePackageTemplate</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SAPTeamDEV/CrediblePackageTemplate</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 

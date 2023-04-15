@@ -8,11 +8,12 @@
     
     <Title>CrediblePackageProject</Title>
     <AssemblyTitle>Credible Package Project</AssemblyTitle>
-    <PackageVersion>1.0</PackageVersion>
+    <Version>1.0</Version>
     <Product>A Sample Credible Project.</Product>
     <Authors>Me</Authors>
     <Company>My Company</Company>
     <Description>A Sample NuGet Package.</Description>
+    <PackageTags></PackageTags>
     <RepositoryUrl></RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     
