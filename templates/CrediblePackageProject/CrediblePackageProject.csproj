@@ -22,7 +22,6 @@
     
     <GenerateAssemblyInfo>True</GenerateAssemblyInfo>
     <Deterministic>True</Deterministic>
-    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
    </PropertyGroup>
     
