@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>SAPTeam.CrediblePackageTemplate</PackageId>
-    <PackageVersion>1.1.3</PackageVersion>
+    <PackageVersion>1.1.4</PackageVersion>
     <Title>NuGet Credible Package Template</Title>
     <Authors>Alireza Poodineh</Authors>
     <Description>A project template that meets the most conditions of a "Valid" nuget package.</Description>
